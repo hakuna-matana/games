@@ -1,5 +1,5 @@
 # Tic-tac-toe (Крестики-нолики)
-[https://nastyarisa.github.io/games/index](https://nastyarisa.github.io/games/index)
+[https://hakuna-matana.github.io/games/](https://hakuna-matana.github.io/games/)
 
 ![Скриншот](https://github.com/nastyarisa/games/blob/master/src/example.png?raw=true)
 
